@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Enviroment>
+    <EnviromentType>PC</EnviromentType>
+    <ApplicationType>Browser</ApplicationType>
+    <BrowserType>Chrome</BrowserType>
+    <URL>https://atidcollege.co.il/Xamples/bmi/</URL>
+    <Weight>52</Weight>
+    <Hight>150</Hight>
+</Enviroment>
